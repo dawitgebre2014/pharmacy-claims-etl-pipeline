@@ -43,6 +43,7 @@ Use `pipeline_steps.sql` in a SQL environment (Databricks, Snowflake, or SQL Ser
 ## 🔍 Why This Project?
 
 This simulates a real workflow I’ve built in Databricks to automate weekly PBM reporting. The original version reduced manual data prep by 70% and enabled faster quality checks and delivery of cost insights.
+🧠 [Download Databricks Notebook Archive (.dbc)](./Pharmacy%20Claims%20ETL.dbc)
 
 ---
 
