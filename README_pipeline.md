@@ -10,7 +10,7 @@ Automating pharmacy claims data processing to:
 - Summarize claim counts and costs by month and drug
 - Streamline reporting and reduce manual effort
 
-## 📁 Files
+##  Files
 
 | File | Description |
 |------|-------------|
@@ -35,7 +35,7 @@ Use `pipeline_steps.sql` in a SQL environment (Databricks, Snowflake, or SQL Ser
 - Total & average cost
 - Count of high-cost claims (> $100)
 
-## 🔧 Tools Used
+##  Tools Used
 - Python (Pandas)
 - SQL (CTEs & aggregations)
 - Jupyter/Databricks-style modular pipeline approach
